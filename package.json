@@ -4,8 +4,9 @@
     "description": "So you can code with your eyes closed, huh?",
     "publisher": "BraxtonHuff",
     "website": "https://www.braxtonhuff.com",
+    "icon": "images/EyesClosed.png",
     "repository": "BraxtonHuff",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.56.0"
     },

@@ -7,7 +7,8 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 <a><img src="https://img.shields.io/badge/time%20to-struggle-E71A0E.svg" alt="More Custom Apps"></a>
 <a><img src="https://img.shields.io/badge/for-Visual%20Studio%20Code-499BE9.svg" alt="No Sleep"></a>
 <a href="https://3raxton.github.io/license"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F3raxton%2FEyesClosed&count_bg=%23499BE9&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23499BE9&title=hits&edge_flat=false"/></a></p>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F3raxton%2FEyesClosed&count_bg=%23499BE9&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23499BE9&title=hits&edge_flat=false"/></a></p> -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.png?itemName=BraxtonHuff.EyesClosed&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems&count_bg=%23499BE9&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23499BE9&title=hits&edge_flat=false"/></a></p>
 
 ## Summary
 - 💻 Show your friends and colleagues how well you can code
