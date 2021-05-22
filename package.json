@@ -1,0 +1,24 @@
+{
+    "name": "EyesClosed",
+    "displayName": "EyesClosed",
+    "description": "So you can code with your eyes closed, huh?",
+    "publisher": "BraxtonHuff",
+    "website": "https://www.braxtonhuff.com",
+    "repository": "BraxtonHuff",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eyes Closed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eyes Closed-color-theme.json"
+            }
+        ]
+    }
+}
