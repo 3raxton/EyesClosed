@@ -16,3 +16,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.2]
 
 - Remove hits tracker
+- Add preview image of theme
