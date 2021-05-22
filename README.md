@@ -13,6 +13,9 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 - 😤 Struggle (or don't, this is really up to your skillset)
 - 🎉 Open source
 - 🌚 If you like or rely on this project to enhance your Visual Studio Code experience please consider <a href="https://paypal.me/BraxtonHuff" target="_blank"> donating</a>
+<br>
+
+![EC1](https://raw.githubusercontent.com/3raxton/EyesClosed/565706d0b1eb9d6d3eb5b1ccd1ca73b283429cec/images/EC1.png)
 
 ## How to install in Visual Studio Code
 
