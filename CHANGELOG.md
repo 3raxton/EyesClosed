@@ -12,3 +12,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Add image icon
 - Update README.md
+
+## [1.0.2]
+
+- Remove hits tracker
