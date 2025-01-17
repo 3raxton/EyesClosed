@@ -38,4 +38,5 @@ Please consider [donating](https://paypal.me/BraxtonHuff) **to ensure this repos
 ## License
 Licensed under the [MIT License](https://mit-license.org/) by [Braxton Huff](https://github.com/3raxton) 
 
-### **Hopefully Eyes Closed helps you show off your skills or shows you that you're not as skilled as you think! Cheers!**
+## Final Word
+Hopefully Eyes Closed helps you show off your skills or shows you that you're not as skilled as you think! 😵
