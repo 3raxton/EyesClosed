@@ -6,12 +6,14 @@ target="_blank"><br><img width="100" src="https://em-content.zobj.net/thumbs/240
 </a>
 <a><img src="https://img.shields.io/badge/time%20to-struggle-E71A0E.svg" alt="More Custom Apps"></a>
 <a><img src="https://img.shields.io/badge/for-Visual%20Studio%20Code-499BE9.svg" alt="No Sleep"></a>
-<a href="https://3raxton.github.io/license"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+<a><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=BraxtonHuff.EyesClosed"><img src="https://img.shields.io/badge/download-here-brightgreen.svg" alt="Download"></a>
 
 ## Summary
 - 💻 Show your friends and colleagues how well you can code
 - 😤 Struggle (or don't, this is really up to your skillset)
 - 🎉 Open source
+- 😮‍💨 <a href="https://marketplace.visualstudio.com/items?itemName=BraxtonHuff.EyesClosed">Download here</a>
 - 🌚 If you like or rely on this project to enhance your Visual Studio Code experience please consider <a href="https://paypal.me/BraxtonHuff" target="_blank"> donating</a>
 <br>
 
@@ -34,6 +36,6 @@ Want to add something that's missing to the theme or have an idea? <a href="http
 Please consider [donating](https://paypal.me/BraxtonHuff) **to ensure this repository stays strong**. I create &amp; work on open source projects such as this one for free. If you depend on or find this project helpful, it makes sense to donate to help ensure that the project is maintained.
 
 ## License
-Licensed under the [MIT License](https://3raxton.github.io/license) by [Braxton Huff](https://github.com/3raxton) 
+Licensed under the [MIT License](https://mit-license.org/) by [Braxton Huff](https://github.com/3raxton) 
 
-### **Hopefully EyesClosed helps you show off your skills or shows you that you're not as skilled as you think! Cheers!**
+### **Hopefully Eyes Closed helps you show off your skills or shows you that you're not as skilled as you think! Cheers!**
