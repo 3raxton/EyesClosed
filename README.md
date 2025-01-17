@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/3raxton/EyesClosed/"
 target="_blank"><br><img width="100" src="https://em-content.zobj.net/thumbs/240/apple/354/dizzy-face_1f635.png"></a></p>
-<h1 align="center">EyesClosed</h1>
+<h1 align="center">Eyes Closed</h1>
 <p align="center">So you think you can code with your eyes closed, huh?</p>
 <p align="center">
 </a>
