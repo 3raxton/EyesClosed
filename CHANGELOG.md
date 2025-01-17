@@ -24,3 +24,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added some specifics for bracket colors
 - Added download link to README
 - Updated link to license
+
+## [1.1.1]
+
+- Make visual changes to README
+- Add 1.1.0 and 1.1.1 to changelog
