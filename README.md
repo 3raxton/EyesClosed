@@ -5,7 +5,7 @@ target="_blank"><br><img width="100" src="https://em-content.zobj.net/thumbs/240
 <p align="center">
 </a>
 <a><img src="https://img.shields.io/badge/time%20to-struggle-E71A0E.svg" alt="More Custom Apps"></a>
-<a><img src="https://img.shields.io/badge/for-Visual%20Studio%20Code-499BE9.svg" alt="No Sleep"></a>
+<a><img src="https://img.shields.io/badge/for-Visual%20Studio%20Code-209CF0.svg" alt="No Sleep"></a>
 <a><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=BraxtonHuff.EyesClosed"><img src="https://img.shields.io/badge/download-here-brightgreen.svg" alt="Download"></a>
 
