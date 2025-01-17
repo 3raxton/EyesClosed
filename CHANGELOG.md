@@ -17,3 +17,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Remove hits tracker
 - Add preview image of theme
+
+## [1.1.0]
+
+- Updated README to call correct preview image
+- Added some specifics for bracket colors
+- Added download link to README
+- Updated link to license
