@@ -20,8 +20,8 @@ target="_blank"><br><img width="100" src="https://em-content.zobj.net/thumbs/240
 ## How to install in Visual Studio Code
 
 1. Go to the Visual Studio Code [marketplace](https://marketplace.visualstudio.com/)
-2. Search EyesClosed
-3. Click on EyesClosed 
+2. Search EyesClosed or Eyes Closed
+3. Click on Eyes Closed
 4. Click the green Install button
 4. You're set! 🎉
 
